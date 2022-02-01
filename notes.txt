@@ -1,0 +1,3 @@
+MongoDB first user credentials:
+  username: luisotaviodesimone
+  password: 4S7BrFiQQZuqvk5F
