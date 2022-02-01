@@ -35,3 +35,5 @@ $ yarn test:e2e
 # test coverage
 $ yarn test:cov
 ```
+
+To see random data inserted by me you can go on [this URL](https://nestjs-crud-heroku.herokuapp.com/users)
